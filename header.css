@@ -1,0 +1,39 @@
+body {
+    padding-top: 80px;
+    padding-bottom: 1000px;
+}
+
+.header {
+    background-color: rgb(255, 255, 255);
+    color: rgb(156, 0, 0);
+    border-bottom: none;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 20px;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    z-index: 999;
+    border-radius: 30px;
+}
+
+.header img {
+    height: 45px;
+}
+g
+.g img{
+    height: 35px;
+}
+.g1{
+    text-align: center;
+    color: brown;
+}
+.g1 img{
+    height: 35px;
+}
+.g2{
+    text-align: right;
+}
